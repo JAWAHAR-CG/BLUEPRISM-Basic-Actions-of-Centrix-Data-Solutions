@@ -1,5 +1,6 @@
 # BLUEPRISM-Basic-Actions-of-Centrix-Data-Solutions
 **Creation of Login - Launch - Close of Centrix Data Solutions using process and business objects in Blueprism Robotic Process Automation Software.**
+
 **Learnt from Blueprism Associate Developer Learning path**
 
 **Below picture shows an studio tab. where, we can create new processes and business objects.**
