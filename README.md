@@ -25,7 +25,7 @@
 **Inside, Centrix Data solutions - Testing process:**
 ![2](https://user-images.githubusercontent.com/65493805/210130381-99bb4f28-a575-4ea9-a69a-402918536956.png)
 ![Process - Main page](https://user-images.githubusercontent.com/65493805/210130225-2ef7c3ab-6843-45cc-9854-76c1e86e207a.png)
-**Here, In this properties We will connect Launch page from Centrix Data solutions - Basic objects,**
+**Here, In this properties We will connect Launch page from Centrix Data solutions - Basic objects,** 
 ![Launch Action properties](https://user-images.githubusercontent.com/65493805/210130625-c464f247-d97a-4af1-925d-796f0d83f148.png)
 **Here, In this properties We will connect Login page from Centrix Data solutions - Basic objects,**
 ![Login Action properties](https://user-images.githubusercontent.com/65493805/210130629-5a86170f-f1a2-42b0-8d07-f16b9e308620.png)
