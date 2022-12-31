@@ -1,0 +1,57 @@
+﻿<process name="Centrix Data solutions - Testing  process" version="1.0" bpversion="7.1.1.65484" narrative="To test the business objects created in object studio." byrefcollection="true" preferredid="06422fc6-3846-4f3b-85b8-31f346417abb">
+  <view>
+    <camerax>0</camerax>
+    <cameray>0</cameray>
+    <zoom version="2">1.25</zoom>
+  </view>
+  <preconditions />
+  <endpoint narrative="" />
+  <stage stageid="2a139d5b-8aa7-4893-b089-bd03525a225a" name="Start" type="Start">
+    <display x="15" y="-120" />
+    <onsuccess>2128fd2f-9c00-43d8-9f23-c24bab815825</onsuccess>
+  </stage>
+  <stage stageid="acfaf480-9c1a-42f1-bfbe-73606f17971f" name="End" type="End">
+    <display x="15" y="90" />
+  </stage>
+  <stage stageid="c9578b13-0495-46b8-8d26-df2833e4736f" name="Stage1" type="ProcessInfo">
+    <display x="-195" y="-120" w="150" h="90" />
+  </stage>
+  <stage stageid="2128fd2f-9c00-43d8-9f23-c24bab815825" name="Launch" type="Action">
+    <loginhibit onsuccess="true" />
+    <display x="15" y="-60" w="90" h="30" />
+    <onsuccess>7bc34b1a-34d8-4338-a8eb-4f54359bbf20</onsuccess>
+    <resource object="Centrix Data Solutions - Basic actions" action="Launch" />
+  </stage>
+  <stage stageid="7bc34b1a-34d8-4338-a8eb-4f54359bbf20" name="Login" type="Action">
+    <loginhibit onsuccess="true" />
+    <display x="15" y="-15" w="90" h="30" />
+    <inputs>
+      <input type="text" name="Staff Number" friendlyname="Staff Number" expr="[SN]" />
+      <input type="password" name="Password" friendlyname="Password" expr="[PWD]" />
+    </inputs>
+    <onsuccess>ad58061c-4d71-4764-8085-8e2808961a4e</onsuccess>
+    <resource object="Centrix Data Solutions - Basic actions" action="Login" />
+  </stage>
+  <stage stageid="ad58061c-4d71-4764-8085-8e2808961a4e" name="Close" type="Action">
+    <loginhibit onsuccess="true" />
+    <display x="15" y="30" w="90" h="30" />
+    <onsuccess>acfaf480-9c1a-42f1-bfbe-73606f17971f</onsuccess>
+    <resource object="Centrix Data Solutions - Basic actions" action="Close" />
+  </stage>
+  <stage stageid="2703f70b-7eaf-401b-bcd1-87e2988a24d1" name="SN" type="Data">
+    <loginhibit onsuccess="true" />
+    <display x="-150" y="-30" w="120" h="30" />
+    <datatype>text</datatype>
+    <initialvalue xml:space="preserve">bp</initialvalue>
+    <private />
+    <alwaysinit />
+  </stage>
+  <stage stageid="6894042a-0b15-4b06-a400-d1c09b5a38dc" name="PWD" type="Data">
+    <loginhibit onsuccess="true" />
+    <display x="-150" y="30" w="120" h="30" />
+    <datatype>password</datatype>
+    <initialvalueenc>49,20,7,67,26,91,6,1</initialvalueenc>
+    <private />
+    <alwaysinit />
+  </stage>
+</process>
