@@ -1,6 +1,5 @@
 # BLUEPRISM-Basic-Actions-of-Centrix-Data-Solutions
 
-Certificate:
 ![Certificate](https://user-images.githubusercontent.com/65493805/213904259-bf50d900-0512-49f0-b822-c597dd9c70f1.png)
 
 
