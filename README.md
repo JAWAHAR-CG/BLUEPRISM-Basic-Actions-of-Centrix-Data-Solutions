@@ -1,4 +1,8 @@
 # BLUEPRISM-Basic-Actions-of-Centrix-Data-Solutions
+
+Certificate:
+[JAWAHAR V 842703_AICTE RPA Certificate.pdf](https://github.com/JAWAHAR-CG/BLUEPRISM-Basic-Actions-of-Centrix-Data-Solutions/files/10473884/JAWAHAR.V.842703_AICTE.RPA.Certificate.pdf)
+
 **Creation of Login - Launch - Close of Centrix Data Solutions using process and business objects in Blueprism Robotic Process Automation Software.**
 
 **-----Learnt from Blueprism Associate Developer Learning path-----**
