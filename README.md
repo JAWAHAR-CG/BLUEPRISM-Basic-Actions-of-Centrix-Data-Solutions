@@ -10,7 +10,7 @@
 **Below picture shows an studio tab. where, we can create new processes and business objects.**
 ![1](https://user-images.githubusercontent.com/65493805/210129491-09570917-634a-44a5-9713-4f1250990640.png)
 
-**Application modeller, available inside business objects. It is used to identify and capture various elements using Identify and Higlight options and lists attributes of each elements been captured.**
+**Application modeller, available inside business objects. It is used to identify and capture various elements using Identify and Highlight options and lists attributes of each elements been captured.**
 ![Application Modeller](https://user-images.githubusercontent.com/65493805/210129632-2faa56ff-be05-403a-86b9-7e6cdb7b47b6.png)
 ![Highlight 1](https://user-images.githubusercontent.com/65493805/210129738-3b63b159-23f2-4779-9888-9a450318c1d6.png)
 ![Highlight 2](https://user-images.githubusercontent.com/65493805/210129742-1c34c720-c1cd-47aa-96a8-8dbb70a3b353.png)
